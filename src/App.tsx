@@ -1,4 +1,4 @@
-import Prueba from './components/Prueba'
+import Prueba from './components/Prueba/Prueba'
 
 function App() {
 
