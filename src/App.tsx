@@ -1,3 +1,4 @@
+import Footer from './components/Footer/Footer'
 import Prueba from './components/Prueba/Prueba'
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <Prueba />
+      <Footer/>
     </>
   )
 }
